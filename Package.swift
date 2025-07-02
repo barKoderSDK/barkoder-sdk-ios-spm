@@ -14,13 +14,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Barkoder",
-            url: "https://barkoder.com/download/barkoder-1.6.4-xcframework.zip",
-            checksum: "46314939bf86f7111ebc401048614b858637eb42f15a7410d37201abb5cd969a"
+            url: "https://barkoder.com/download/barkoder-1.6.5-xcframework.zip",
+            checksum: "9aed15eeab0d1dfa5be279fded59211ff87d25148153d72f87ef43afdf1f4cba"
         ),
         .binaryTarget(
             name: "BarkoderSDK",
-            url: "https://barkoder.com/download/barkodersdk-1.6.4-xcframework.zip",
-            checksum: "26a316307eb365048f5563ff893cb28d8d06d764a25f7e9b91a7f2db44ddcd88"
+            url: "https://barkoder.com/download/barkodersdk-1.6.5-xcframework.zip",
+            checksum: "6a5777cef347a657d912e206483045159290ca18a69a8cc215c66c8f8d14e8fa"
         ),
     ]
 )
